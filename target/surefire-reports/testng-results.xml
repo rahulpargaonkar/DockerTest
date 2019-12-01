@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.learn.DockerDemo.ChromeTest" duration-ms="10580" started-at="2019-11-30T04:50:16 GMT" finished-at="2019-11-30T04:50:27 GMT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10580" started-at="2019-11-30T04:50:16 GMT" finished-at="2019-11-30T04:50:27 GMT">
+      <class name="com.learn.DockerDemo.ChromeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.learn.DockerDemo.ChromeTest@77cd7a0]" name="setup" is-config="true" duration-ms="4171" started-at="2019-11-30T04:50:16 GMT" finished-at="2019-11-30T04:50:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTitle()[pri:0, instance:com.learn.DockerDemo.ChromeTest@77cd7a0]" name="VerifyTitle" duration-ms="6218" started-at="2019-11-30T04:50:21 GMT" finished-at="2019-11-30T04:50:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.learn.DockerDemo.ChromeTest@77cd7a0]" name="teardown" is-config="true" duration-ms="156" started-at="2019-11-30T04:50:27 GMT" finished-at="2019-11-30T04:50:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.learn.DockerDemo.ChromeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.learn.DockerDemo.ChromeTest -->
+</testng-results>
